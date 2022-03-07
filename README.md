@@ -21,3 +21,9 @@ All of this mining was done on Nicehash. Long story short, even though my comput
 complicates predictions because the break-even date is affected by the price of not one, but two different crypocurrencies. The break-even date 
 found is true explicitly if all factors remain constant, but that is not going to be the case. The break-even point can come sooner or later than predicted, 
 but it gives us a decent time frame on when to expect to break even. 
+
+# What would I do differently?
+I did not originally plan to estimate my break-even date, so I'm happy with my result. However, If I wanted to be more accurate, I would need
+to find a different way of calculating it. Since I currently depend on the average monthly earnings, the break-even date unfortunately only 
+updates once a month. If I wanted to be more accurate, I could find a way to find the average earnings per day instead, and use that to find a 
+formula that updates daily instead. 
