@@ -13,7 +13,7 @@ The earnings of October were a significant outlier because I had a lot more equi
 excluding October, and decided that figure would be a better representation of my average monthly earnings. 
 
 I then made a formula where I multiplied the net earnings by -1, and divided them by the average earnings per month (excluding October). This gave me
-the amount of months left to break even. I then  used the EDATE formula to add the amount of months to the current date, giving me 3/8/2022 as my
+the amount of months left to break even. I then  used the EDATE formula to add the amount of months to the current date, giving me 3/7/2023 as my
 break-even date. 
 
 # Disclosure:
